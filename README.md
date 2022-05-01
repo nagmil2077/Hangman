@@ -1,22 +1,5 @@
 # Hangman
 
-## Story
-
-Let's hang somebody! Implement the popular [Hangman](<https://en.wikipedia.org/wiki/Hangman_(game)>)
-game. Add a full fledged game flow with a main menu and optionally some cool graphics
-in the console! Some online examples:
-
-- https://www.gamestolearnenglish.com/hangman/
-- https://www.coolmathgames.com/0-hangman
-
-## What are you going to learn?
-
-- Use lists and strings.
-- Handle files.
-- Use and validate user input.
-- Handle normal and edge cases.
-- Create ASCII art.
-
 ## Tasks
 
 1. Implement the `play(word, lives)` function as a basic hangman game.
